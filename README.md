@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dzonidevv/dzonidevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 5dzoni5@gmail.com
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Doesn't like coding on monitor under 19 inch
--->
