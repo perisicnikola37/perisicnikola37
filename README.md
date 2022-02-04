@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
  -->
 
-- 🔭 I’m currently working on - project for school
+- 🔭 I’m currently working on - <i>project for school which will improve my skills</i>
 - 🌱 I’m currently learning - <b>PHP</b>
-- 👯 I’m looking to collaborate on - project
-- 🤔 I’m looking for help with - JavaScript
-- 💬 Ask me about - Frontend Development
+- 👯 I’m looking to collaborate on - <i>interesting project</i>
+- 🤔 I’m looking for help with - <b>JavaScript</b>
+- 💬 Ask me about - <b>Frontend Development</b>
 - 📫 How to reach me: 5dzoni5@gmail.com
-- 😄 Pronouns: he / him / his
-- ⚡ Fun fact: I don't like coding on a monitor under 19 inches
+- 😄 Pronouns: <b>he / him / his</b>
+- ⚡ Fun fact: <i>I don't like coding on a monitor under 19 inches</i>
