@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 🧑‍🤝‍🧑 I’m looking to collaborate on - <i>interesting project</i>
 - 📫 How to reach me: 5dzoni5@gmail.com
 - ⚡ Fun fact: <i>I don't like coding on a monitor under 19 inches</i>
+
+
+
+[![Check out!](https://i.postimg.cc/YCj5S7sf/1-9.jpg)](https://www.youtube.com/watch?v=o9EfN5ZAutE)
+
+
