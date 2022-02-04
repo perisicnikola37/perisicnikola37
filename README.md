@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  -->
 
 - 🔭 I’m currently working on - project for school
-- 🌱 I’m currently learning - <br>PHP</br>
+- 🌱 I’m currently learning - <b>PHP</b>
 - 👯 I’m looking to collaborate on - project
 - 🤔 I’m looking for help with - JavaScript
 - 💬 Ask me about - Frontend Development
