@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📚 I’m currently learning - <b>PHP</b>
 - 🤔 I’m looking for help with - <b>JavaScript</b>
 - 🧑‍🤝‍🧑 I’m looking to collaborate on - <i>interesting project</i>
+- ⚡ Fun fact: <i>I don't like coding on a monitor under <b>19</b> inches</i>
 - 📫 How to reach me: 5dzoni5@gmail.com
-- ⚡ Fun fact: <i>I don't like coding on a monitor under 19 inches</i>
-
 
 <a target="_blank" href="ttps://www.youtube.com/watch?v=o9EfN5ZAutE"><img src="https://i.postimg.cc/YCj5S7sf/1-9.jpg" width="550" height="auto"> 
 
