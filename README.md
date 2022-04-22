@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 👋 About: <i>I am <b>Nikola</b>, <b>Frontend Developer</b> from <b>Montenegro</b></i>🇲🇪
 - 😄 Pronouns: <b>he / him / his</b>
 - 💬 Ask me about - <b>Frontend Development</b>
-- 🔨 I’m currently working on - <i>project for school which will improve my skills</i>
-- 📚 I’m currently learning - <b>PHP</b>
+- 🔨 I’m currently working on - <i>project for local IT company which will improve my coding skills</i>
+- 📚 I’m currently learning - <b>Laravel</b>
 - 🤔 I’m looking for help with - <b>JavaScript</b>
 - 🧑‍🤝‍🧑 I’m looking to collaborate on - <i>interesting project</i>
 - ⚡ Fun fact: <i>I don't like coding on a monitor under <b>24</b> inches</i>
@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  
 <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/laravel/laravel.png" />
-
-<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
  
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  
@@ -55,6 +53,7 @@ Here are some ideas to get you started:
  
  <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />
  
+ <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
 
  
 
