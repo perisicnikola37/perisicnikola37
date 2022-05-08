@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://www.youtube.com/watch?v=o9EfN5ZAutE"><img src="https://i.postimg.cc/YCj5S7sf/1-9.jpg" width="550" height="auto"> 
 
-## Check out my posts on Instagram!
-<a target="_blank" href="https://www.instagram.com/p/CZW4owRgby0/"><img src="https://i.ibb.co/k6nWCVN/Copy-of-Fullstack-developer.png" width="170" height="170"> 
-<a target="_blank" href="https://www.instagram.com/p/CZcPtQLgWLu/"><img src="https://i.ibb.co/hZpf5L2/Copy-of-FREE-WEB-HOSTING.png" width="170" height="170"> 
-<a target="_blank" href="https://www.instagram.com/p/CZe_V40gD-I/"><img src="https://i.ibb.co/CMg5pyH/Copy-of-Copy-of-Fullstack-developer.png" width="170" height="170"> 
-
-
 
 ### Languages, Databases and Tools:
 
