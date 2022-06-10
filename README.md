@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://www.youtube.com/watch?v=o9EfN5ZAutE"><img src="https://i.postimg.cc/YCj5S7sf/1-9.jpg" width="550" height="auto"> 
 
-
 ### Languages, Databases and Tools:
 
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -48,7 +47,10 @@ Here are some ideas to get you started:
  
  <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
 
- 
+ </br> </br> <hr>
+
+![](https://github-readme-stats.vercel.app/api?username=dzonidevv&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/> </br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dzonidevv&theme=swift&hide_border=false)<br/>
 
  
 
