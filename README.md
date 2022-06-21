@@ -31,17 +31,21 @@ Here are some ideas to get you started:
  
 <img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sass/sass.png" />
 
-<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Bootstrap" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
  
+<img align="left" alt="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/laravel/laravel.png" />
+ 
 <img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  
-<img align="left" alt="Laravel" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/laravel/laravel.png" />
+<img align="left" alt="Bootstrap" width="33px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
  
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ 
+ <img align="left" alt="Heroku" width="34px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
  
  <img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />
  
