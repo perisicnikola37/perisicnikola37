@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<a target="_blank" href="https://www.youtube.com/watch?v=o9EfN5ZAutE"><img src="https://i.postimg.cc/YCj5S7sf/1-9.jpg" width="550" height="auto"> 
+
 
 ### Languages, Databases and Tools:
 
