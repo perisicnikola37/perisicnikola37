@@ -53,8 +53,16 @@ Here are some ideas to get you started:
 
  </br> </br> <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=dzonidevv&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/> </br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dzonidevv&theme=swift&hide_border=false)<br/>
+[![Dzoni's github activity graph](https://activity-graph.herokuapp.com/graph?username=dzonidevv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzonidevv&show_icons=true&theme=tokyonight">
+</p>
+<p align="center">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dzonidevv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
+</p>
+
+
 
  
 
