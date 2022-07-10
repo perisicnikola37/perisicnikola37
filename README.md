@@ -62,21 +62,6 @@ Here are some ideas to get you started:
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dzonidevv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 </p>
 
-<hr>
-
-### Let's connect on social media⚡
-
-<a href = "https://www.instagram.com/_nikolaperisic_">
-<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
-</a>
-
-<a href = "https://www.linkedin.com/in/dzonidev">
-<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>
-</a>
-
-<a href = "https://codepen.io/dzonidev">
-<img width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png"/>
-</a>
 
 
 
