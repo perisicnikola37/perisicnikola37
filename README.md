@@ -45,13 +45,13 @@ Here are some ideas to get you started:
  
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  
- <img align="left" alt="Heroku" width="34px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
+<img align="left" alt="Heroku" width="34px" src="https://cdn-icons-png.flaticon.com/512/873/873120.png" />
  
- <img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />
+<img align="left" alt="Windows" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/windows/windows.png" />
  
- <img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
+<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />
 
- </br> </br> <hr>
+</br> </br> <hr>
 
 [![Dzoni's github activity graph](https://activity-graph.herokuapp.com/graph?username=dzonidevv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -62,10 +62,21 @@ Here are some ideas to get you started:
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dzonidevv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=2C8ADD)](https://git.io/streak-stats">
 </p>
 
+<hr>
 
+### Let's connect on social media⚡
 
- 
+<a href = "https://www.instagram.com/_nikolaperisic_">
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png"/>
+</a>
 
+<a href = "https://www.linkedin.com/in/dzonidev">
+<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>
+</a>
+
+<a href = "https://codepen.io/dzonidev">
+<img width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png"/>
+</a>
 
 
 
