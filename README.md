@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=dzonidevv&style=flat-square)
 ### Hello there🤗
 
 <!-- 
