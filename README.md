@@ -10,7 +10,7 @@ Here are some ideas to get you started:
  <img align='right' src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250">
 
 
-- 👋 About: <i>I am <b>Nikola</b>, <b>Junior Developer</b> from <b>Montenegro</b></i>🇲🇪
+- 👋 About: <i>I am <b>Nikola</b>, <b>Junior Developer</b> from <b>Montenegro</b></i>
 - 😄 Pronouns: <b>he / him / his</b>
 - 💬 Ask me about - <b>Tech</b>
 - 🔨 I’m currently working on - <i>project for local IT company which will improve my coding skills</i>
