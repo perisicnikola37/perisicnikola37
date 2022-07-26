@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 5dzoni5@gmail.com
 
 <hr>
-
-[![Dzoni's github activity graph](https://activity-graph.herokuapp.com/graph?username=dzonidevv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dzonidevv&show_icons=true&theme=tokyonight">
 </p>
