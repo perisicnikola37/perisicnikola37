@@ -1,11 +1,5 @@
 ### Hello there👋
-
-<!-- 
-**dzonidevv/dzonidevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- -->
-  
+ 
  <img align='right' src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250">
 
 - 👋 About: <i>I am <b>Nikola</b>, <b>Junior Developer</b> from <b>Montenegro</b></i>
