@@ -1,6 +1,4 @@
 ### Hello there👋
- 
- <img align='right' src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250">
 
 - 👋 About: <i>I'm <b>Nikola</b>, <b>Junior Developer</b> from <b>Montenegro</b></i>
 - 😄 Pronouns: <b>he / him / his</b>
