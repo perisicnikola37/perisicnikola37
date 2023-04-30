@@ -1,9 +1,9 @@
 ### Hello there👋
 
-- 👋 About: <i>I'm <b>Nikola</b>, <b>Junior Developer</b> from <b>Montenegro</b></i>
+- 👋 About: <i>I'm <b>Nikola</b>, <b>Junior developer</b> from <b>Montenegro</b></i>
 - 😄 Pronouns: <b>he / him / his</b>
 - 💬 Ask me about - <b>Tech</b>
-- 🔨 I’m currently working on - <i><a href="https://tim4.ictcortex.me" target="_blank">Online library</a></i>
+- 🔨 I’m currently working on - <i><a href="https://tim7.ictcortex.me" target="_blank">Online library</a></i>
 - 📚 I’m currently learning - <b>Laravel</b>
 - 🧑‍🤝‍🧑 I’m looking to collaborate on - <i>interesting project</i>
 - ⚡ Fun fact: <i>I don't like coding on a monitor under <b>24</b> inches</i>
