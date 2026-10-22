@@ -32,15 +32,6 @@ public sealed class Engineer : IFullStackEngineer
 }
 ```
 
-## Selected impact
-
-| Result | What I did |
-|:--|:--|
-| **776 → 38 ms** | Traced a production outage to an EF Core Cartesian explosion; covering indexes cut the query by 95% |
-| **11.5 → 2.3 min** | Azure DevOps pipeline, 80% faster with parallel jobs and caching |
-| **−60% time, +35% completion** | Regulated digital identity verification flow for a banking platform |
-| **8 modules, 0 downtime** | Legacy to React 18 micro-frontends, plus a 27-component Storybook library shared org-wide |
-
 ## Projects
 
 <details>
